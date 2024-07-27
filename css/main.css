@@ -22,7 +22,8 @@
 }
 button{
    
-   padding-right: 151.5px;
+   padding-right: 75px;
+   padding-left:75px;
    padding-top:4px;
     background-color: blue;
     color:white;
@@ -54,4 +55,6 @@ div .green{
 div .red{
     color:red;
     text-decoration:line-through;
+}
+
 }
